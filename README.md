@@ -31,6 +31,10 @@ I'm a Computer Science senior in college (graduating May 2026) with a passion fo
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![ZeroTier](https://img.shields.io/badge/ZeroTier-FFC107?style=for-the-badge&logo=zerotier&logoColor=black)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+![OpenSCAP](https://img.shields.io/badge/OpenSCAP-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Artifactory](https://img.shields.io/badge/Artifactory-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
 
 ### Virtualization & Systems
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
@@ -90,12 +94,6 @@ Led 8-person team building full-stack library management system with MySQL datab
 - Provided technical support including Active Directory management, software licensing, and level 1-3 troubleshooting
 - Managed inventory deployment across Dallas County offices
 - Handled account management, printer configuration, and hardware support
-
-## 📊 GitHub Stats
-
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SatyamGarg108&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamGarg108&layout=compact&theme=radical)
 
 ## 🌟 What I'm Working On
 
