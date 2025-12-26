@@ -27,6 +27,8 @@ I'm a Computer Science senior in college (graduating May 2026) with a passion fo
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Citrix](https://img.shields.io/badge/Citrix-452170?style=for-the-badge&logo=citrix&logoColor=white)
 
 ### Infrastructure
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -37,10 +39,6 @@ I'm a Computer Science senior in college (graduating May 2026) with a passion fo
 ![Artifactory](https://img.shields.io/badge/Artifactory-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
 ![ZeroTier](https://img.shields.io/badge/ZeroTier-FFC107?style=for-the-badge&logo=zerotier&logoColor=black)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
-
-### Virtualization Softwares
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Citrix](https://img.shields.io/badge/Citrix-452170?style=for-the-badge&logo=citrix&logoColor=white)
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
